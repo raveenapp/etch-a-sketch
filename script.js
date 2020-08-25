@@ -1,7 +1,7 @@
 //create div for canvas
 const container = document.querySelector('#container');
 const containerColour = container.style.backgroundColor = "red";
-const size = 100;
+const size = 16;
 const windowWidth = 600;
 const windowWidth2 = windowWidth + size*2;
 const containerWidth = container.style.width = `${windowWidth2}px`;
